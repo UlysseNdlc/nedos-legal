@@ -1,7 +1,7 @@
 # Politique de confidentialité — Nedos
 
-**Version 2.0 — En vigueur à compter du 26/09/2026**
-**Dernière mise à jour : 26/09/2026**
+**Version 2.1 — En vigueur à compter du 28/09/2026**
+**Dernière mise à jour : 28/09/2026**
 
 > Ce document explique quelles données Nedos traite, pourquoi, avec qui elles sont partagées, combien de temps elles sont conservées et quels sont vos droits. Nous ne vendons pas vos données personnelles. Avec l'offre gratuite, et seulement avec votre consentement, vos données de garde-robe peuvent être exploitées sous forme de statistiques anonymisées, y compris à des fins publicitaires (article 6).
 
@@ -29,7 +29,7 @@ ODY SERVICES est responsable du traitement de vos données personnelles au sens 
 | Mot de passe (stocké uniquement sous forme hachée, jamais en clair) | Sécurité du compte | Exécution du contrat |
 | Nom et prénom | Personnalisation de l'affichage | Exécution du contrat |
 | Clé de double authentification (si vous activez l'authentification à deux facteurs) | Sécurité du compte | Exécution du contrat |
-| Choix exprimés à l'inscription (acceptation des CGU et de la présente politique, consentement de l'article 6) et leur date | Preuve de l'acceptation et du consentement | Obligation légale (art. 7(1) RGPD) / intérêt légitime |
+| Choix exprimés à l'inscription ou dans l'application (acceptation des CGU et de la présente politique, consentement de l'article 6, accord à la transmission de données aux services d'intelligence artificielle de l'article 4.1) et leur date | Preuve de l'acceptation, du consentement et de l'accord | Obligation légale (art. 7(1) RGPD) / intérêt légitime |
 
 ### 2.2 Données de profil (facultatives)
 
@@ -37,7 +37,7 @@ ODY SERVICES est responsable du traitement de vos données personnelles au sens 
 |---|---|---|
 | Genre | Adapter les catégories de vêtements et les suggestions | Exécution du contrat |
 | Année de naissance | Adapter l'âge apparent du mannequin des images de tenues | Exécution du contrat |
-| Ville | Météo locale (accueil, tenue du jour, suggestions adaptées à la météo) | Exécution du contrat |
+| Ville, et ses coordonnées géographiques déduites de la ville (conservées pour ne pas la rechercher à chaque ouverture) | Météo locale (accueil, tenue du jour, suggestions adaptées à la météo) | Exécution du contrat |
 | Teint et sous-ton de peau, choisis par vous dans une palette | Calcul de votre palette de couleurs et teint du mannequin des images de tenues | Exécution du contrat |
 | Silhouette (morphologie), choisie par vous dans une liste | Silhouette du mannequin des images de tenues | Exécution du contrat |
 | Photo de portrait | Affichage dans votre profil | Exécution du contrat |
@@ -74,7 +74,7 @@ Nedos ne collecte pas : votre géolocalisation (seule la ville que vous saisisse
 
 Votre compte, vos données de profil, de garde-robe et de tenues ainsi que vos photos sont hébergés par notre prestataire Supabase, dans la région eu-west-1 (Irlande), au sein de l'Union européenne.
 
-Les traitements côté serveur (appels aux services d'intelligence artificielle, suppression de compte) sont exécutés par les fonctions serveur de Supabase, qui s'exécutent dans la région de l'infrastructure la plus proche de l'utilisateur. Vos photos et vos données ne sont jamais envoyées directement depuis votre appareil aux services d'intelligence artificielle : elles passent toujours par ces fonctions, qui contrôlent votre identité et votre quota. Aucune clé d'accès à ces services n'est présente dans l'application.
+Les traitements côté serveur (appels aux services d'intelligence artificielle, météo, suppression de compte) sont exécutés par les fonctions serveur de Supabase, qui s'exécutent dans la région de l'infrastructure la plus proche de l'utilisateur. Vos photos et vos données ne sont jamais envoyées directement depuis votre appareil aux services d'intelligence artificielle : elles passent toujours par ces fonctions, qui contrôlent votre identité et votre quota. Aucune clé d'accès à ces services n'est présente dans l'application.
 
 ---
 
@@ -89,6 +89,8 @@ Les traitements côté serveur (appels aux services d'intelligence artificielle,
 
 **Ne sont jamais transmis à ces prestataires** : votre adresse e-mail, votre nom, votre photo de portrait, ni aucun identifiant de compte.
 
+**Votre accord préalable** : aucune donnée n'est transmise à ces prestataires avant que vous l'ayez expressément accepté. Avant toute utilisation des fonctions d'intelligence artificielle, un écran dédié nomme chacun des deux prestataires et les données qui lui sont transmises ; votre accord et sa date sont enregistrés. Sans cet accord, les fonctions de Nedos ne sont pas disponibles. Vous pouvez le retirer à tout moment en écrivant à contact@nedos.app : plus aucune donnée n'est alors transmise, et l'accord vous est redemandé à votre prochaine connexion. Tout nouveau prestataire ou toute nouvelle donnée transmise fera l'objet d'une mise à jour de la présente politique et d'une nouvelle demande d'accord.
+
 Ces prestataires n'utilisent pas les données que nous leur transmettons pour entraîner leurs modèles, conformément à leurs conditions applicables aux services professionnels. Ils peuvent les conserver pour une durée limitée afin de détecter les abus, selon leurs propres conditions.
 
 ### 4.2 Autres prestataires et destinataires
@@ -97,7 +99,7 @@ Ces prestataires n'utilisent pas les données que nous leur transmettons pour en
 |---|---|---|---|
 | **Supabase, Inc.** | Base de données, authentification, stockage des fichiers, fonctions serveur (sous-traitant) | Toutes les données décrites à l'article 2 | Union européenne (Irlande) — société établie aux États-Unis |
 | **Resend** | Envoi des e-mails de service (sous-traitant) | Adresse e-mail, contenu de l'e-mail | Union européenne (région eu-west-1) — société établie aux États-Unis |
-| **OpenMeteo GmbH** | Service météo, interrogé directement par votre appareil (responsable de traitement indépendant) | Nom de la ville saisie ; votre adresse IP, comme pour toute requête internet (journaux conservés 90 jours par Open-Meteo) | Suisse (pays reconnu par la Commission européenne comme offrant un niveau de protection adéquat) |
+| **OpenMeteo GmbH** | Service météo, interrogé par nos fonctions serveur et non par votre appareil (responsable de traitement indépendant) | Nom de la ville saisie et ses coordonnées géographiques. Votre adresse IP ne lui est pas transmise | Suisse (pays reconnu par la Commission européenne comme offrant un niveau de protection adéquat) |
 | **Apple Inc.** | Distribution de l'application, paiement de l'abonnement Premium (responsable de traitement indépendant) | Données d'achat, selon la politique de confidentialité d'Apple | Selon Apple |
 
 Nos sous-traitants sont liés par des engagements contractuels conformes à l'article 28 du RGPD. Lorsqu'une société est établie hors de l'Union européenne, l'accès éventuel à vos données depuis l'étranger est encadré par les clauses contractuelles types de la Commission européenne ou par le cadre de protection des données UE–États-Unis (Data Privacy Framework).
@@ -111,7 +113,7 @@ Nos sous-traitants sont liés par des engagements contractuels conformes à l'ar
 | Données de compte, de profil, de garde-robe, de tenues et photos | Tant que votre compte est actif. Un compte sans aucune connexion pendant 3 ans est supprimé, après un e-mail d'avertissement envoyé au moins 30 jours avant. |
 | Toutes ces données après une demande de suppression du compte | 15 jours (délai d'annulation, voir article 7), puis effacement définitif au plus tard le lendemain |
 | Journal des appels aux fonctions d'intelligence artificielle | 13 mois, et dans tous les cas effacé avec le compte |
-| Preuve de votre consentement (article 6) et de l'acceptation des CGU | Pendant toute la durée du compte |
+| Preuve de votre consentement (article 6), de votre accord à la transmission aux services d'intelligence artificielle (article 4.1) et de l'acceptation des CGU | Pendant toute la durée du compte |
 | Journaux techniques de l'hébergeur | 7 jours |
 | Sauvegardes quotidiennes de la base de données | 7 jours (elles ne contiennent pas les photos) |
 | Journaux d'envoi des e-mails de service | 30 jours au plus, chez notre prestataire d'envoi |
