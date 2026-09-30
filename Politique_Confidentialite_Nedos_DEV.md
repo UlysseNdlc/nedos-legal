@@ -1,7 +1,7 @@
 # Politique de confidentialité — Nedos
 
-**Version 2.1 — En vigueur à compter du 28/09/2026**
-**Dernière mise à jour : 28/09/2026**
+**Version 2.2 — En vigueur à compter du 30/09/2026**
+**Dernière mise à jour : 30/09/2026**
 
 > Ce document explique quelles données Nedos traite, pourquoi, avec qui elles sont partagées, combien de temps elles sont conservées et quels sont vos droits. Nous ne vendons pas vos données personnelles. Avec l'offre gratuite, et seulement avec votre consentement, vos données de garde-robe peuvent être exploitées sous forme de statistiques anonymisées, y compris à des fins publicitaires (article 6).
 
@@ -50,9 +50,13 @@ ODY SERVICES est responsable du traitement de vos données personnelles au sens 
 | Donnée | Finalité | Base légale |
 |---|---|---|
 | Photos de vêtements | Affichage, détourage (photo « packshot »), analyse des couleurs, génération d'images de tenues | Exécution du contrat |
-| Caractéristiques des vêtements (catégorie, type, marque, matière, motif, nom) | Suggestions de tenues | Exécution du contrat |
+| Caractéristiques des vêtements (catégorie, type, marque, matière, motif, saisons, nom) | Suggestions de tenues | Exécution du contrat |
 | Couleurs analysées (nom, valeur hexadécimale, référence Pantone) | Moteur de colorimétrie | Exécution du contrat |
 | Tenues enregistrées et images de tenues générées | Consultation, partage à votre initiative | Exécution du contrat |
+| Groupes de tenues (noms que vous leur donnez et tenues qu'ils contiennent) | Classement et filtrage de vos tenues | Exécution du contrat |
+| Planning de vos tenues (dates auxquelles vous prévoyez de porter une tenue) | Calendrier ; tenue du jour affichée à l'accueil et annoncée par la notification de la veille | Exécution du contrat |
+
+Les groupes et le planning sont facultatifs : vous les créez, les modifiez et les supprimez vous-même dans l'application. Ils ne sont transmis à aucun service d'intelligence artificielle et ne servent pas aux statistiques de l'article 6. Supprimer une tenue la retire de ses groupes et de votre planning ; supprimer un groupe ne supprime pas ses tenues. La notification de la veille est programmée et affichée par votre appareil lui-même : son contenu (nom de la tenue, météo) ne passe par aucun service d'envoi de notifications.
 
 Nedos ne vous demande jamais de photographier une personne. Nous vous recommandons de photographier vos vêtements seuls, sans personne identifiable.
 
@@ -110,7 +114,7 @@ Nos sous-traitants sont liés par des engagements contractuels conformes à l'ar
 
 | Catégorie de données | Durée de conservation |
 |---|---|
-| Données de compte, de profil, de garde-robe, de tenues et photos | Tant que votre compte est actif. Un compte sans aucune connexion pendant 3 ans est supprimé, après un e-mail d'avertissement envoyé au moins 30 jours avant. |
+| Données de compte, de profil, de garde-robe, de tenues (y compris leurs groupes et votre planning, jours passés compris) et photos | Tant que votre compte est actif. Un compte sans aucune connexion pendant 3 ans est supprimé, après un e-mail d'avertissement envoyé au moins 30 jours avant. |
 | Toutes ces données après une demande de suppression du compte | 15 jours (délai d'annulation, voir article 7), puis effacement définitif au plus tard le lendemain |
 | Journal des appels aux fonctions d'intelligence artificielle | 13 mois, et dans tous les cas effacé avec le compte |
 | Preuve de votre consentement (article 6), de votre accord à la transmission aux services d'intelligence artificielle (article 4.1) et de l'acceptation des CGU | Pendant toute la durée du compte |
@@ -143,7 +147,7 @@ ODY SERVICES peut exploiter vos données de garde-robe et de profil (catégories
 - pour améliorer Nedos ;
 - pour réaliser et commercialiser, auprès de marques, d'annonceurs ou d'autres partenaires, des études et statistiques de tendances, qui peuvent servir à des campagnes publicitaires diffusées dans Nedos ou en dehors de Nedos.
 
-Seules des statistiques agrégées, qui ne permettent pas d'identifier un utilisateur, peuvent sortir de Nedos. **Aucune donnée personnelle identifiable n'est vendue, louée ou cédée**, et les marques et annonceurs n'ont jamais accès à vos données individuelles. Vos photos, votre adresse e-mail, votre nom et votre portrait ne sont jamais utilisés pour ces statistiques. À la date de la présente version, aucune statistique n'a encore été commercialisée.
+Seules des statistiques agrégées, qui ne permettent pas d'identifier un utilisateur, peuvent sortir de Nedos. **Aucune donnée personnelle identifiable n'est vendue, louée ou cédée**, et les marques et annonceurs n'ont jamais accès à vos données individuelles. Vos photos, votre adresse e-mail, votre nom et votre portrait ne sont jamais utilisés pour ces statistiques, pas plus que les noms de vos groupes de tenues ni votre planning. À la date de la présente version, aucune statistique n'a encore été commercialisée.
 
 **Publicité personnalisée dans l'application** : si Nedos affiche un jour des contenus sponsorisés choisis en fonction de votre garde-robe ou de votre profil (par exemple une pièce de marque suggérée pour compléter votre vestiaire), ce ciblage constituera un traitement de vos données personnelles distinct des statistiques anonymisées. Il sera décrit dans une mise à jour de la présente politique et votre consentement spécifique vous sera demandé avant sa mise en œuvre.
 
@@ -172,7 +176,7 @@ Vous pouvez supprimer votre compte à tout moment depuis l'application : **Profi
 
 - **Désactivation immédiate** : dès la demande, votre compte est désactivé et vos sessions ouvertes sont fermées sur tous vos appareils. Vos données ne sont plus accessibles et ne sont plus transmises à aucun service d'intelligence artificielle.
 - **Délai d'annulation de 15 jours** : un e-mail de confirmation vous est envoyé. Pendant 15 jours, vous pouvez annuler la suppression en vous reconnectant et en choisissant « Réactiver mon compte ». Pendant ce délai, votre adresse e-mail ne peut pas être utilisée pour créer un nouveau compte.
-- **Effacement définitif** : à l'issue des 15 jours, votre compte et l'ensemble de vos données — profil, garde-robe, tenues, journal d'utilisation, ainsi que toutes vos photos et images (vêtements, tenues, portrait) — sont effacés définitivement, au plus tard le lendemain. Cet effacement est irréversible. Les sauvegardes quotidiennes de la base de données, conservées 7 jours, peuvent encore contenir vos données pendant cette durée ; elles ne contiennent pas vos photos, qui sont effacées immédiatement.
+- **Effacement définitif** : à l'issue des 15 jours, votre compte et l'ensemble de vos données — profil, garde-robe, tenues, groupes de tenues, planning, journal d'utilisation, ainsi que toutes vos photos et images (vêtements, tenues, portrait) — sont effacés définitivement, au plus tard le lendemain. Cet effacement est irréversible. Les sauvegardes quotidiennes de la base de données, conservées 7 jours, peuvent encore contenir vos données pendant cette durée ; elles ne contiennent pas vos photos, qui sont effacées immédiatement.
 - **Abonnement Premium** : supprimer votre compte **ne résilie pas** votre abonnement, qui est géré par Apple. Résiliez-le dans les réglages de votre appareil (Réglages → [votre nom] → Abonnements) pour ne plus être facturé. La période en cours n'est pas remboursée par ODY SERVICES ; les demandes de remboursement relèvent d'Apple.
 
 Vous pouvez aussi demander la suppression de votre compte par e-mail à contact@nedos.app.
