@@ -1,6 +1,6 @@
 # Politique de confidentialité — Nedos
 
-**Version 2.4 — En vigueur à compter du 03/10/2026**
+**Version 2.5 — En vigueur à compter du 03/10/2026**
 **Dernière mise à jour : 03/10/2026**
 
 > Ce document explique quelles données Nedos traite, pourquoi, avec qui elles sont partagées, combien de temps elles sont conservées et quels sont vos droits. Nous ne vendons pas vos données personnelles. Avec l'offre gratuite, et seulement avec votre consentement, vos données de garde-robe peuvent être exploitées sous forme de statistiques anonymisées, y compris à des fins publicitaires (article 6).
@@ -70,7 +70,7 @@ Nedos ne vous demande jamais de photographier une personne. Nous vous recommando
 
 ### 2.5 Données que nous ne collectons pas
 
-Nedos ne collecte pas : votre géolocalisation (seule la ville que vous saisissez est utilisée), vos contacts, votre identifiant publicitaire (IDFA), votre navigation en dehors de l'application, ni aucune donnée biométrique. L'application n'intègre aucun outil de mesure d'audience ni aucun traceur publicitaire.
+Nedos ne collecte pas : votre géolocalisation (seule la ville que vous saisissez est utilisée), vos contacts, votre identifiant publicitaire (IDFA), votre navigation en dehors de l'application, ni aucune donnée biométrique. Si vous activez le verrouillage de l'application par Face ID ou Touch ID, la reconnaissance est faite par votre appareil lui-même : Nedos n'accède ni à votre visage ni à votre empreinte, et ne reçoit que le résultat (déverrouillage accepté ou refusé). L'application n'intègre aucun outil de mesure d'audience ni aucun traceur publicitaire.
 
 ---
 
@@ -191,6 +191,8 @@ Mesures techniques :
 - contrôle d'accès par ligne (Row Level Security) sur toutes les tables contenant des données d'utilisateurs : chaque utilisateur n'accède qu'à ses propres données ;
 - mots de passe stockés uniquement sous forme hachée ;
 - authentification à deux facteurs (TOTP) disponible pour tous, appliquée côté serveur lorsqu'elle est activée ;
+- session de connexion conservée dans l'espace de stockage chiffré de votre appareil (trousseau), qui ne se transfère pas sur un autre appareil ;
+- verrouillage facultatif de l'application par Face ID, Touch ID ou le code de votre appareil ;
 - vérification de l'identité et du quota de l'utilisateur, côté serveur, avant tout appel à un service d'intelligence artificielle ;
 - clés d'accès aux services d'intelligence artificielle conservées exclusivement côté serveur.
 
@@ -223,7 +225,7 @@ Conformément aux articles 15 à 22 du RGPD, vous disposez des droits suivants :
 
 ## Article 10 — Traceurs
 
-L'application n'utilise aucun cookie ni traceur publicitaire ou de mesure d'audience. Elle conserve sur votre appareil uniquement ce qui est nécessaire à son fonctionnement : votre session de connexion et quelques préférences d'affichage (par exemple la tenue du jour choisie). Ces éléments sont strictement nécessaires au service et ne requièrent pas de consentement.
+L'application n'utilise aucun cookie ni traceur publicitaire ou de mesure d'audience. Elle conserve sur votre appareil uniquement ce qui est nécessaire à son fonctionnement : votre session de connexion, le réglage du verrouillage de l'application et quelques préférences d'affichage (par exemple la tenue du jour choisie). Ces éléments sont strictement nécessaires au service et ne requièrent pas de consentement.
 
 ---
 
