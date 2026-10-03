@@ -1,7 +1,7 @@
 # Politique de confidentialité — Nedos
 
-**Version 2.3 — En vigueur à compter du 02/10/2026**
-**Dernière mise à jour : 02/10/2026**
+**Version 2.4 — En vigueur à compter du 03/10/2026**
+**Dernière mise à jour : 03/10/2026**
 
 > Ce document explique quelles données Nedos traite, pourquoi, avec qui elles sont partagées, combien de temps elles sont conservées et quels sont vos droits. Nous ne vendons pas vos données personnelles. Avec l'offre gratuite, et seulement avec votre consentement, vos données de garde-robe peuvent être exploitées sous forme de statistiques anonymisées, y compris à des fins publicitaires (article 6).
 
@@ -103,7 +103,7 @@ Ces prestataires n'utilisent pas les données que nous leur transmettons pour en
 |---|---|---|---|
 | **Supabase, Inc.** | Base de données, authentification, stockage des fichiers, fonctions serveur (sous-traitant) | Toutes les données décrites à l'article 2 | Union européenne (Irlande) — société établie aux États-Unis |
 | **Resend** | Envoi des e-mails de service (sous-traitant) | Adresse e-mail, contenu de l'e-mail | Union européenne (région eu-west-1) — société établie aux États-Unis |
-| **OpenMeteo GmbH** | Service météo, interrogé par nos fonctions serveur et non par votre appareil (responsable de traitement indépendant) | Nom de la ville saisie et ses coordonnées géographiques. Votre adresse IP ne lui est pas transmise | Suisse (pays reconnu par la Commission européenne comme offrant un niveau de protection adéquat) |
+| **Apple Inc.** (services Apple Weather et Apple Plans) | Service météo et recherche des coordonnées de la ville, interrogés par nos fonctions serveur et non par votre appareil (responsable de traitement indépendant) | Nom de la ville saisie et ses coordonnées géographiques. Ni votre adresse IP, ni votre adresse e-mail, ni aucun identifiant de votre compte ne lui sont transmis | États-Unis |
 | **Apple Inc.** | Distribution de l'application, paiement de l'abonnement Premium (responsable de traitement indépendant) | Données d'achat, selon la politique de confidentialité d'Apple | Selon Apple |
 
 Nos sous-traitants sont liés par des engagements contractuels conformes à l'article 28 du RGPD. Lorsqu'une société est établie hors de l'Union européenne, l'accès éventuel à vos données depuis l'étranger est encadré par les clauses contractuelles types de la Commission européenne ou par le cadre de protection des données UE–États-Unis (Data Privacy Framework).
