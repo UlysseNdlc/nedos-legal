@@ -1,7 +1,7 @@
 # Politique de confidentialité — Nedos
 
-**Version 2.5 — En vigueur à compter du 03/10/2026**
-**Dernière mise à jour : 03/10/2026**
+**Version 2.6 — En vigueur à compter du 04/10/2026**
+**Dernière mise à jour : 04/10/2026**
 
 > Ce document explique quelles données Nedos traite, pourquoi, avec qui elles sont partagées, combien de temps elles sont conservées et quels sont vos droits. Nous ne vendons pas vos données personnelles. Avec l'offre gratuite, et seulement avec votre consentement, vos données de garde-robe peuvent être exploitées sous forme de statistiques anonymisées, y compris à des fins publicitaires (article 6).
 
@@ -93,7 +93,7 @@ Les traitements côté serveur (appels aux services d'intelligence artificielle,
 
 **Ne sont jamais transmis à ces prestataires** : votre adresse e-mail, votre nom, votre photo de portrait, ni aucun identifiant de compte.
 
-**Votre accord préalable** : aucune donnée n'est transmise à ces prestataires avant que vous l'ayez expressément accepté. Avant toute utilisation des fonctions d'intelligence artificielle, un écran dédié nomme chacun des deux prestataires et les données qui lui sont transmises ; votre accord et sa date sont enregistrés. Sans cet accord, les fonctions de Nedos ne sont pas disponibles. Vous pouvez le retirer à tout moment en écrivant à contact@nedos.app : plus aucune donnée n'est alors transmise, et l'accord vous est redemandé à votre prochaine connexion. Tout nouveau prestataire ou toute nouvelle donnée transmise fera l'objet d'une mise à jour de la présente politique et d'une nouvelle demande d'accord.
+**Votre accord préalable** : aucune donnée n'est transmise à ces prestataires avant que vous l'ayez expressément accepté. Avant toute utilisation des fonctions d'intelligence artificielle, un écran dédié nomme chacun des deux prestataires et les données qui lui sont transmises ; votre accord et sa date sont enregistrés. Sans cet accord, les fonctions de Nedos ne sont pas disponibles. Vous pouvez le retirer à tout moment dans l'application (Profil → Paramètres) ou en écrivant à contact@nedos.app : plus aucune donnée n'est alors transmise, et l'accord vous est redemandé avant toute nouvelle utilisation. Tout nouveau prestataire ou toute nouvelle donnée transmise fera l'objet d'une mise à jour de la présente politique et d'une nouvelle demande d'accord.
 
 Ces prestataires n'utilisent pas les données que nous leur transmettons pour entraîner leurs modèles, conformément à leurs conditions applicables aux services professionnels. Ils peuvent les conserver pour une durée limitée afin de détecter les abus, selon leurs propres conditions.
 
