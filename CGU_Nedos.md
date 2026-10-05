@@ -1,7 +1,7 @@
 # Conditions générales d'utilisation — Nedos
 
-**Version 2.0 — En vigueur à compter du 26/09/2026**
-**Dernière mise à jour : 26/09/2026**
+**Version 2.1 — En vigueur à compter du 04/10/2026**
+**Dernière mise à jour : 04/10/2026**
 
 > Les présentes conditions générales d'utilisation (« CGU ») forment le contrat entre vous et ODY SERVICES SASU. Vous les acceptez en créant votre compte. La Politique de confidentialité, qui décrit le traitement de vos données personnelles, en fait partie intégrante.
 
@@ -52,25 +52,35 @@ Vous êtes responsable de la confidentialité de votre mot de passe. Nous vous r
 
 L'offre gratuite donne accès aux fonctionnalités de Nedos dans la limite de quotas d'utilisation hebdomadaires et mensuels, affichés dans l'application lorsqu'ils sont atteints.
 
+**Semaine de bienvenue** : pendant les sept jours qui suivent la création de votre compte, ces quotas sont élargis, pour vous permettre de constituer votre garde-robe et d'essayer Nedos. Ils reviennent ensuite aux quotas ordinaires de l'offre gratuite, sans démarche de votre part et sans aucun paiement. La semaine de bienvenue fait partie de l'offre gratuite : elle n'est ni un abonnement, ni un essai de l'offre Premium.
+
 **L'accès à l'offre gratuite est subordonné à votre consentement à l'exploitation de vos données de garde-robe sous forme de statistiques agrégées et anonymisées**, décrite à l'article 6 de la Politique de confidentialité. Si vous ne souhaitez pas donner ce consentement, vous pouvez utiliser Nedos en souscrivant l'offre Premium (article 4.2).
 
 ### 4.2 Offre Premium
 
-L'offre Premium est un abonnement mensuel à renouvellement automatique, souscrit exclusivement par l'achat intégré de l'App Store d'Apple, au prix affiché dans l'application au moment de la souscription, toutes taxes comprises. Elle donne accès à des quotas d'utilisation élargis et permet d'utiliser Nedos sans consentir au traitement décrit à l'article 4.1.
+L'offre Premium est un abonnement à renouvellement automatique, proposé pour une durée d'une semaine, d'un mois ou d'un an, souscrit exclusivement par l'achat intégré de l'App Store d'Apple, au prix affiché dans l'application au moment de la souscription, toutes taxes comprises. Elle donne accès à des quotas d'utilisation élargis, décomptés par semaine quelle que soit la durée choisie, et permet d'utiliser Nedos sans consentir au traitement décrit à l'article 4.1.
 
 ### 4.3 Renouvellement, résiliation et remboursement de l'abonnement
 
-L'abonnement se renouvelle automatiquement à chaque échéance mensuelle, sauf résiliation au moins 24 heures avant l'échéance depuis les réglages de votre appareil (Réglages → [votre nom] → Abonnements). La résiliation prend effet à la fin de la période en cours ; vous conservez l'offre Premium jusqu'à cette date, puis vous passez à l'offre gratuite dans les conditions de l'article 4.1.
+L'abonnement se renouvelle automatiquement à chaque échéance — hebdomadaire, mensuelle ou annuelle selon la durée choisie —, sauf résiliation au moins 24 heures avant l'échéance depuis les réglages de votre appareil (Réglages → [votre nom] → Abonnements). La résiliation prend effet à la fin de la période en cours ; vous conservez l'offre Premium jusqu'à cette date, puis vous passez à l'offre gratuite dans les conditions de l'article 4.1.
 
 Le paiement, la facturation, l'exercice du droit de rétractation et les remboursements sont gérés par Apple, selon ses propres conditions. L'Éditeur n'a accès à aucune donnée de paiement.
 
 ### 4.4 Période de constitution de la garde-robe
 
-Tant que votre garde-robe compte moins de 50 pièces, les quotas des fonctions de détourage des photos et d'analyse des couleurs sont temporairement élargis, pour faciliter l'ajout de vos vêtements. Cet avantage s'applique à l'offre gratuite comme à l'offre Premium.
+Avec l'offre Premium, tant que votre garde-robe compte moins de 50 pièces, les quotas des fonctions de détourage des photos et d'analyse des couleurs sont temporairement élargis, pour faciliter l'ajout de vos vêtements. Avec l'offre gratuite, c'est la semaine de bienvenue (article 4.1) qui permet de constituer votre garde-robe.
 
 ### 4.5 Évolution des quotas
 
 L'Éditeur peut faire évoluer les quotas. Toute réduction des quotas de l'offre Premium est notifiée au moins 30 jours à l'avance ; vous pouvez alors résilier votre abonnement dans les conditions de l'article 4.3.
+
+### 4.6 Contenus sponsorisés
+
+Nedos peut présenter des pièces proposées par des marques partenaires (« contenus sponsorisés ») : une pièce de marque peut apparaître dans votre garde-robe ou dans une tenue composée par Nedos, accompagnée d'un lien permettant de l'acheter. Ces contenus peuvent être présentés avec l'offre gratuite comme avec l'offre Premium.
+
+Les contenus sponsorisés sont toujours signalés comme tels et se distinguent de vos propres vêtements. L'achat éventuel se fait hors de Nedos, auprès de la marque ou de son distributeur, selon leurs propres conditions ; l'Éditeur n'est pas partie à cette vente.
+
+Le choix de ces contenus en fonction de votre garde-robe ou de votre profil n'a lieu qu'avec votre consentement spécifique, dans les conditions de l'article 6.2 de la Politique de confidentialité. À la date de la présente version, aucun contenu sponsorisé n'est présenté dans Nedos.
 
 ---
 
