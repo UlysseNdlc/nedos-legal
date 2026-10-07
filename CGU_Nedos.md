@@ -1,7 +1,7 @@
 # Conditions générales d'utilisation — Nedos
 
-**Version 2.1 — En vigueur à compter du 04/10/2026**
-**Dernière mise à jour : 04/10/2026**
+**Version 2.2 — En vigueur à compter du 07/10/2026**
+**Dernière mise à jour : 07/10/2026**
 
 > Les présentes conditions générales d'utilisation (« CGU ») forment le contrat entre vous et ODY SERVICES SASU. Vous les acceptez en créant votre compte. La Politique de confidentialité, qui décrit le traitement de vos données personnelles, en fait partie intégrante.
 
@@ -98,6 +98,7 @@ Sont notamment interdits :
 - accéder à Nedos ou en extraire des données par des moyens automatisés (robots, scripts, aspirateurs de données) ;
 - importer des contenus illicites, portant atteinte à la vie privée ou à l'image d'autrui, ou aux droits de propriété intellectuelle de tiers ;
 - photographier des personnes sans leur accord ;
+- utiliser, pour l'option « Mon visage sur le mannequin » (article 6.6), la photo d'une autre personne que vous ;
 - tenter d'accéder sans autorisation aux systèmes de l'Éditeur ou de ses prestataires ;
 - reproduire, décompiler ou exploiter commercialement tout ou partie de l'application, sauf dans les cas autorisés par la loi.
 
@@ -127,7 +128,13 @@ Lorsque vous y avez consenti, l'Éditeur peut exploiter vos données de garde-ro
 
 ### 6.5 Nature des contenus générés
 
-Les analyses de couleurs, suggestions de tenues et images générées par l'intelligence artificielle sont des propositions indicatives. Elles peuvent comporter des imprécisions (couleurs, coupes, rendu des vêtements) et ne constituent pas un conseil professionnel. Les images de tenues sont des illustrations et ne reproduisent pas exactement vos vêtements.
+Les analyses de couleurs, suggestions de tenues et images générées par l'intelligence artificielle sont des propositions indicatives. Elles peuvent comporter des imprécisions (couleurs, coupes, rendu des vêtements) et ne constituent pas un conseil professionnel. Les images de tenues sont des illustrations et ne reproduisent pas exactement vos vêtements. Elles sont générées par une intelligence artificielle : lorsque l'option « Mon visage sur le mannequin » est activée (article 6.6), elles vous ressemblent sans être des photographies de vous. Les images de tenues que vous partagez depuis l'application portent la mention « Image générée par IA ».
+
+### 6.6 Option « Mon visage sur le mannequin » (offre Premium)
+
+Cette option, réservée à l'offre Premium et désactivée par défaut, place votre visage sur le mannequin des images de vos tenues ; le corps reste celui du mannequin. Pour l'activer, vous prenez ou choisissez une photo de votre visage (« selfie ») et confirmez, par une case à cocher, qu'il s'agit bien de vous et que vous acceptez sa transmission à Google (Gemini). **Vous ne pouvez utiliser que votre propre photo, jamais celle d'une autre personne.**
+
+Votre selfie est conservé dans votre espace privé et transmis à Google à chaque génération d'une image de tenue, dans les conditions de l'article 4.1 de la Politique de confidentialité. Vous pouvez désactiver l'option à tout moment depuis votre profil : votre selfie est alors supprimé. Il est aussi supprimé si votre abonnement Premium prend fin ou si vous retirez votre accord à la transmission de vos données aux services d'intelligence artificielle. Les images déjà générées restent enregistrées avec vos tenues jusqu'à ce que vous les supprimiez ; leur partage relève de votre seule initiative.
 
 ---
 
